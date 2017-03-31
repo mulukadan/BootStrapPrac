@@ -5,6 +5,12 @@
   margin: 0px;
 }
 .jumbotron{
-  color: blue;
-  padding-left: 10px;
+  background: url(../imgs/landing.jpg) no-repeat;
+  color: Black;
+}
+.h2{
+  color: Green;
+}
+.h3{
+  color: Blue;
 }
