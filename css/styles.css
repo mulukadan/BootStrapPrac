@@ -4,3 +4,7 @@
 .no-margin{
   margin: 0px;
 }
+.jumbotron{
+  color: blue;
+  padding-left: 10px;
+}
